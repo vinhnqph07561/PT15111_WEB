@@ -17,6 +17,6 @@
     </form>
 
     <!-- Footer -->
-    <footer>Footer login</footer>
+    <footer>Foote login</footer>
 </body>
 </html>
